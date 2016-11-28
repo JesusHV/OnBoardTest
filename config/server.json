@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "api": {
+  	"staticEndpoint": "https://s3-us-west-2.amazonaws.com/lgoveabucket/data_melp.json"
+  }
+}
